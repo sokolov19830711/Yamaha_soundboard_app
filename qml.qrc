@@ -1,0 +1,32 @@
+<RCC>
+    <qresource prefix="/">
+        <file>src/qml/main.qml</file>
+        <file alias="closeButton">src/img/menu_closeButton.png</file>
+        <file alias="fullButton">src/img/menu_fullButton.png</file>
+        <file alias="hideButton">src/img/menu_hideButton.png</file>
+        <file alias="prevSizeButton">src/img/menu_prevSizeButton.png</file>
+        <file>src/qml/TabBarButton.qml</file>
+        <file>src/qml/HomePage.qml</file>
+        <file>src/qml/ConfigurationsPage.qml</file>
+        <file>src/qml/PopupWindow.qml</file>
+        <file>src/qml/CommandListPopup.qml</file>
+        <file alias="popup_closeButton">src/img/popup_closeButton.png</file>
+        <file>src/qml/SbcButton.qml</file>
+        <file>src/qml/ChannelPresetsPage.qml</file>
+        <file>src/qml/CommandSelectionItem.qml</file>
+        <file>src/qml/ChannelPresetPopup.qml</file>
+        <file>src/qml/ProjectNamePopup.qml</file>
+        <file>src/qml/LoadChannelPresetPopup.qml</file>
+        <file>src/qml/PresetUsePopup.qml</file>
+        <file>src/qml/ChannelsPage.qml</file>
+        <file>src/qml/ChangeChannelPresetPopup.qml</file>
+        <file>src/qml/LoadPredefinedListPopup.qml</file>
+        <file>src/qml/MixPresetsPage.qml</file>
+        <file>src/qml/LoadMixPresetPopup.qml</file>
+        <file>src/qml/ViewCommandListPopup.qml</file>
+        <file>src/qml/ViewMixCommandListPopup.qml</file>
+        <file>src/qml/MixesPage.qml</file>
+        <file>src/qml/ChangeMixPresetPopup.qml</file>
+        <file>src/qml/MixPresetUsePopup.qml</file>
+    </qresource>
+</RCC>
